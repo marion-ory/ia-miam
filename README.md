@@ -1,3 +1,5 @@
+"🚧 Status : Work In Progress. Le cœur de l'algorithme est prêt, je travaille actuellement sur l'interface utilisateur.
+
 # 🥗 IA-Miam : Planificateur de repas intelligent & éco-responsable
 
 > **Projet Personnel** dans le cadre de mon cursus en **Bachelor Data & IA**.  
